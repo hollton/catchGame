@@ -1,0 +1,19 @@
+                    ╭════════════════╮
+                    ║         多媒体创意作业         ║ 
+  ╭════════┤                                ├═════════╮
+  ║                ║       20112807    刘浩东       ║                  ║
+  ║                ║                                ║                  ║ 
+  ║                ╰════════════════╯                  ║
+　║                                                                      ║
+  ║                                                                      ║
+  ║ 1、创意多媒体网页小游戏：抓羊游戏；                                  ║
+  ║                                                                      ║
+  ║ 2、除了js/jquery-1.8.3.js文件是常用的库文件，其它均为自己手写，      ║
+  ║    其中关键文件是 catchGame.html 以及 catchGame.js ；                ║
+  ║                                                                      ║
+  ║ 3、支持主流浏览器，如FireFox、Chrome、IE7-11、Opera等；              ║
+  ║                                                                      ║
+  ║ 4、打开catchGame.html查看，建议在全屏下操作效果为佳。                ║  
+  ║                                                                      ║ 
+  ║                                                                      ║ 
+  ╰═══════════════════════════════════╯
