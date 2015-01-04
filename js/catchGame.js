@@ -39,6 +39,7 @@ function star(){
 			ran();
 			clearInterval(timer);
 			timer=setInterval(goDown,time);
+			if(num>5){time=1;}	//xyy加速
 		}
 		
 		//未抓到xyy
