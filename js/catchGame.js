@@ -1,4 +1,4 @@
-//功能函数
+﻿//功能函数
 function star(){
 	var timer=null;
 	var x=0;     //xyy初始化坐标位置
@@ -11,7 +11,7 @@ function star(){
 	//改变title
 	setInterval(function(){
 		n++;
-		(n%2)?$(document).attr('title','多媒体作业'):$(document).attr('title','20112807 刘浩东');},1000);
+		(n%2)?$(document).attr('title','howard'):$(document).attr('title','刘浩东');},1000);
 	
 	//x坐标随机出现
 	function ran(){
